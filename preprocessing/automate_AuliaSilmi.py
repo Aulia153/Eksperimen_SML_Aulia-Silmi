@@ -59,6 +59,6 @@ def preprocess_dataset(
 if __name__ == "__main__":
 
     preprocess_dataset(
-        "/content/drive/MyDrive/Eksperimen_SML_Aulia Silmi Mardiyanti/mango_dataset",
-        "/content/drive/MyDrive/Eksperimen_SML_Aulia Silmi Mardiyanti/preprocessing/mango_preprocessing"
+        "../mango_dataset",
+        "mango_preprocessing"
     )
